@@ -2,7 +2,7 @@
  
 ## Overview
 
-This GitHub repository provides for Convolutional Neural Network based Two Microphone DOA estimation on Android smartphone platform. The example app provided here is for hearing improvement studies. 
+This GitHub repository provides the codes for different types of beamformers as a pre-filter or SNR booster to singel-channel speech enhancment. The example app provided here is for hearing improvement studies. 
 > **Abstract:** In this paper, we compare the performance of fixed and adaptive beamformers as an application to speech enhancement (SE) algorithm. The proposed signal processing pipeline works in real-time for hearing aid devices using only a smartphone with no additional hardware as an assistive tool. The proposed method consists of a Wiener filter based single-channel SE method along with beamformer as a pre-filter using only two built-in microphones of the smartphone. In this work, multiple beamforming approaches like delay and sum, minimum variance distortionless response (MVDR) and generalized sidelobe canceller (GSC) beamformers are considered and compared. The use of beamformers is shown to improve the signal to noise ratio (SNR) of speech signal in real-world noisy conditions through the results presented in this paper. Objective test measures are used to evaluate perceptual quality and intelligibility of enhanced speech achieved by different approaches. Test results show the performance comparison of different approaches as well as the efficiency of proposed method at different SNR levels.
 
 You can find the manuscript for this GitHub repository : https://asa.scitation.org/doi/abs/10.1121/2.0001314
